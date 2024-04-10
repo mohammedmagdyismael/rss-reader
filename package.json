@@ -1,6 +1,6 @@
 {
   "homepage": "http://mohammedmagdyismael.github.io/rssreader",
-  "name": "rss-reader",
+  "name": "rssreader",
   "private": true,
   "version": "0.0.0",
   "type": "module",
